@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cleme/OneDrive/Documentos/ExploreAI_GitHub/2401FTDS_Classification_Project_jb-1/mlruns/0/54967747373b4e75a87119138a4dacb5/artifacts
+end_time: 1720095695634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54967747373b4e75a87119138a4dacb5
+run_name: Naive Bayes Classifier
+run_uuid: 54967747373b4e75a87119138a4dacb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720095691473
+status: 3
+tags: []
+user_id: cleme

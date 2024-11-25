@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cleme/OneDrive/Documentos/ExploreAI_GitHub/2401FTDS_Classification_Project_jb-1/mlruns/0/4b34d1ede6544b1cb689d3f7c5134466/artifacts
+end_time: 1720094585323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b34d1ede6544b1cb689d3f7c5134466
+run_name: casual-calf-596
+run_uuid: 4b34d1ede6544b1cb689d3f7c5134466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720094576019
+status: 3
+tags: []
+user_id: cleme

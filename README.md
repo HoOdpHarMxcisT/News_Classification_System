@@ -22,18 +22,26 @@
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
 
-Your team has been hired as data science consultants for a news outlet to create classification models using Python and deploy it as a web application with Streamlit. 
-The aim is to provide you with a hands-on demonstration of applying machine learning techniques to natural language processing tasks.  This end-to-end project encompasses the entire workflow, including data loading, preprocessing, model training, evaluation, and final deployment. The primary stakeholders for the news classification project for the news outlet could include the editorial team, IT/tech support, management, readers, etc. These groups are interested in improved content categorization, operational efficiency, and enhanced user experience.
+In today’s digital age, efficiently managing the vast amount of news content is a significant challenge for news outlets. Our team at DataInsight Solutions has been brought on board as data science consultants to develop a sophisticated news classification system. This project will use machine learning and natural language processing (NLP) to improve content categorization and enhance the reader experience.
 
-#### The methodology overview of our project consists of:
-1. Project Overview
-2. Importing Packages
-3. Loading Data
-4. Data Cleaning
-5. Exploratory Data Analysis
-6. Data Preprocessing 
-7. Model training and evaluation
-8. Model Improvement and MLFlow Integration 
+We will build an end-to-end system that includes data loading, preprocessing, model training, evaluation and deployment through a user-friendly Streamlit interface. This will ensure accurate classification of news articles, optimizing content management for the outlet and providing a more personalized experience for readers.
+
+The key stakeholders who will benefit from our solution are:
+
+- Editorial Team: Simplified workflows and better article organization.
+- IT/Tech Support: Easy integration and deployment of advanced models.
+- Management: Increased operational efficiency and valuable strategic insights.
+- Readers: More personalized and engaging news content.
+
+DataInsight Solutions aims to showcase the practical application of data science in solving real-world problems. Our project will emphasize the importance of thorough data preprocessing, selecting appropriate models, and rigorous performance evaluation. Deploying our solution with Streamlit ensures accessibility and usability for non-technical stakeholders. 
+
+The aim of this study is to develop a machine learning-based news classification system that accurately categorizes news articles, improving content management for the news outlet and enhancing the reader experience. This system will streamline workflows for the editorial team, simplify integration and deployment for IT/tech support, increase operational efficiency for management and provide more personalized and engaging content for readers. The project will encompass the entire workflow from data loading and preprocessing to model training, evaluation and deployment using Streamlit for a user-friendly interface.
+
+Ours objectives are as follows:
+- Data Preprocessing the text data
+- Generate insights that will inform model selection and feature engineering
+- Evaluate 5 different models suitable for text classification
+- Develop a web application using Streamlit to provide an interface for the classification model.
 
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>

@@ -1,8 +1,4 @@
-##### **Please note**: Download the repository as a zipped folder, create a private repository, and upload the content to it. This way, you can collaborate with your teammates effectively.
-
-## 2401FTDS_Classification_Project
-
-# Analysing News Articles Dataset
+# Analysing News Articles
 
 
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_TO_YOUR_APP)
@@ -106,54 +102,6 @@ In its own words:
 > It’s a simple and powerful app model that lets you build rich UIs incredibly quickly.
 
 [Streamlit](https://www.streamlit.io/)  takes away much of the background work needed in order to get a platform which can deploy your models to clients and end users. Meaning that you get to focus on the important stuff (related to the data), and can largely ignore the rest. This will allow you to become a lot more productive.  
-
-##### Description of files
-
-For this repository, we are only concerned with a single file:
-
-| File Name              | Description                       |
-| :--------------------- | :--------------------             |
-| `base_app.py`          | Streamlit application definition. |
-
-
-#### 6.1 Running the Streamlit web app on your local machine
-
-As a first step to becoming familiar with our web app's functioning, we recommend setting up a running instance on your own local machine. To do this, follow the steps below by running the given commands within a Git bash (Windows), or terminal (Mac/Linux):
-
-- Ensure that you have the prerequisite Python libraries installed on your local machine:
-
- ```bash
- pip install -U streamlit numpy pandas scikit-learn
- ```
-
-- Navigate to the base of your repo where your base_app.py is stored, and start the Streamlit app.
-
- ```bash
- cd 2401FTDS_Classification_Project/Streamlit/
- streamlit run base_app.py
- ```
-
- If the web server was able to initialise successfully, the following message should be displayed within your bash/terminal session:
-
-```
-  You can now view your Streamlit app in your browser.
-
-    Local URL: http://localhost:8501
-    Network URL: http://192.168.43.41:8501
-```
-You should also be automatically directed to the base page of your web app. This should look something like:
-
-<div id="s_image" align="center">
-  <img src="https://github.com/ereshia/2401FTDS_Classification_Project/blob/main/Streamlit_image.png" width="850" height="400" alt=""/>
-</div>
-
-Congratulations! You've now officially deployed your first web application!
-
-#### 6.2 Deploying your Streamlit web app
-
-- To deploy your app for all to see, click on `deploy`.
-  
-- Please note: If it's your first time deploying it will redirect you to set up an account first. Please follow the instructions.
 
 ## 7. Team Members<a class="anchor" id="team-members"></a>
 
